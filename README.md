@@ -1,7 +1,7 @@
 # README
 
-## Technology: Associate Software Development Engineer**
-## Team: CoS**
+## Technology: Associate Software Development Engineer
+## Team: CoS
 
 ## Bio
 - 👋 Hi, I’m @SaidbekAbdiganiev
