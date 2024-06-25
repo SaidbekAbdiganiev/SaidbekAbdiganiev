@@ -1,6 +1,5 @@
 **Technology: Associate Software Development Engineer**
-
-**Team: CoS**
+\n**Team: CoS**
 
 - 👋 Hi, I’m @SaidbekAbdiganiev
 - Working @RakutenSymphony
