@@ -1,3 +1,6 @@
+**Technology: Associate Software Development Engineer
+Team: CoS**
+
 - 👋 Hi, I’m @SaidbekAbdiganiev
 - Working @RakutenSymphony
 - I’m interested in Software Engineering and Machine Learning
