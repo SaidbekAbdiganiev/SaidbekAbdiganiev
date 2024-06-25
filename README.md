@@ -1,6 +1,9 @@
-**Technology: Associate Software Development Engineer**
-\n**Team: CoS**
+# README
 
+## Technology: Associate Software Development Engineer**
+## Team: CoS**
+
+## Bio
 - 👋 Hi, I’m @SaidbekAbdiganiev
 - Working @RakutenSymphony
 - I’m interested in Software Engineering and Machine Learning
