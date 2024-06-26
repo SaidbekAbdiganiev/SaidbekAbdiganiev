@@ -136,5 +136,3 @@ add-zsh-hook chpwd load-nvmrc
 load-nvmrc
 
 PATH=~/.console-ninja/.bin:$PATH
-
-export NODE_EXTRA_CA_CERTS="/Library/Application Support/Netskope/STAgent/data/nscacert.pem"
